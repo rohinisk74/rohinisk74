@@ -11,7 +11,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/rohinisk74?label=Followers&style=for-the-badge&color=22c55e)](https://github.com/rohinisk74)
 [![GitHub stars](https://img.shields.io/github/stars/rohinisk74?label=Stars&style=for-the-badge&color=22c55e)](https://github.com/rohinisk74)
 </div>
-🧭 Profile Summary
+**🧭 Profile Summary**
 
 Motivated and detail-oriented Frontend Developer with a strong foundation in Java and web technologies, passionate about building clean, responsive, and user-focused applications.
 
