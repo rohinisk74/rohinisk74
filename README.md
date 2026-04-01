@@ -1,45 +1,24 @@
 <div align="center">
-
 <!-- Animated Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4ade80,50:22c55e,100:16a34a&height=200&section=header&text=Rohini%20Shamkumar&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20UI%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=58&descSize=18&animation=fadeIn" />
-
+  
 <!-- Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22C55E&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Rohini+%F0%9F%91%8B;Frontend+Developer+%F0%9F%92%BB;Building+Beautiful+Web+Experiences+%F0%9F%8C%90;Always+Learning%2C+Always+Growing+%F0%9F%8C±)](https://git.io/typing-svg)
-
 <br/>
 
 <!-- Profile Views & Social Badges -->
 ![Profile Views](https://komarev.com/ghpvc/?username=rohinisk74&label=Profile%20Views&color=22c55e&style=for-the-badge)
 [![GitHub followers](https://img.shields.io/github/followers/rohinisk74?label=Followers&style=for-the-badge&color=22c55e)](https://github.com/rohinisk74)
 [![GitHub stars](https://img.shields.io/github/stars/rohinisk74?label=Stars&style=for-the-badge&color=22c55e)](https://github.com/rohinisk74)
-
 </div>
+🧭 Profile Summary
 
----
+Motivated and detail-oriented Frontend Developer with a strong foundation in Java and web technologies, passionate about building clean, responsive, and user-focused applications.
 
-## 🙋‍♀️ About Me
-
-```javascript
-const rohini = {
-  name:        "Rohini Shamkumar",
-  username:    "rohinisk74",
-  location:   "India 🇮🇳",
-  role:        "Frontend Developer",
-  passion:     "Crafting clean, responsive & interactive web experiences",
-  currentFocus: "Building real-world projects with HTML, CSS & JavaScript",
-  funFact:     "I turn ☕ coffee into beautiful UIs!",
-  openTo:      ["Internships", "Collaborations", "Entry-level roles"],
-};
-```
-
-- 🔭 Currently working on **frontend projects** to strengthen my portfolio
-- 🌱 Actively learning **React.js**, **JavaScript ES6+**, and **UI/UX best practices**
-- 👩‍💻 Built a fully responsive **Job Portal** frontend from scratch
-- 💡 Passionate about **user-centric design** and **clean code**
-- 🎯 Goal: Land a role where I can grow as a developer and create impactful products
-- 📫 Reach me at: **[rohinisk74](https://github.com/rohinisk74)**
-
----
+✔ Strong in HTML, CSS, JavaScript
+✔ Knowledge of Java, JDBC, MySQL
+✔ Focused on real-world project development
+✔ Actively seeking Software / Frontend Developer roles
 
 ## 🛠️ Tech Stack & Skills
 
